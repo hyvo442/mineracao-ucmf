@@ -2,7 +2,7 @@
 
 Estudo de caso da disciplina de **Mineração de Dados** do Bacharelado em Inteligência Artificial da Universidade Federal de Goiás (UFG). O trabalho aplica o processo de KDD a dados de cardiologia pediátrica para prever se um paciente apresenta patologia cardíaca (`NORMAL X ANORMAL`).
 
-**Integrantes:** [nome 1], [nome 2], [nome 3]
+**Integrantes:** Ivanildo Hyvo, Igor Nucada, Gustavo Alves
 
 ## Dados
 
